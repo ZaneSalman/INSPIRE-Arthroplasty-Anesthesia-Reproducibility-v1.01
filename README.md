@@ -2,6 +2,8 @@
 
 **Version 1.01**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22166599.svg)](https://doi.org/10.5281/zenodo.22166599)
+
 Study: **Neuraxial versus general anesthesia and early postoperative resource use
 after lower-limb arthroplasty**, a retrospective cohort study using the INSPIRE
 perioperative registry.
@@ -66,20 +68,25 @@ Use CURRENT, not these.
 - Data Availability links present and well-formed.
 
 ## Status: REMAINING author to-dos (not analysis)
-1. **Verify the 3 data-availability links are LIVE** (open in browser): Zenodo DOI
-   10.5281/zenodo.22051133, GitHub ZaneSalman/inspire-arthroplasty-anesthesia,
-   PhysioNet INSPIRE v1.4.2. A dead link here is a common submission failure.
-2. **Co-author sign-off** on the current version — especially the hip/knee subgroup
+1. **Co-author sign-off** on the current version — especially the hip/knee subgroup
    claim and the removal of refs 16–17 (those were co-authors' papers).
-3. **Journal choice** (still open). Best-fit candidates from scope + institutional
+2. **Journal choice** (still open). Best-fit candidates from scope + institutional
    OA agreements: Journal of Orthopaedic Surgery (SAGE; APC ~1,600 USD with the
    Gold-discount agreement), Archives of Orthopaedic and Trauma Surgery (Springer;
    ref [11] published a near-identical study there), or BMC Anesthesiology.
    Reformatting to the chosen journal is mechanical and quick.
-4. **Sharpen the "what this adds" paragraph** — the field is well-populated; lead on
+3. **Sharpen the "what this adds" paragraph** — the field is well-populated; lead on
    the distinct Korean cohort, longer baseline LOS, ICU utilization outcome, and the
    honest subgroup analysis.
-5. Cover letter + point-by-point reviewer response (map cleanly to the 9 items).
+4. Cover letter + point-by-point reviewer response (map cleanly to the 9 items).
+
+## Citation
+
+Salman, Z. G., Zeitouny, R., Panwalker, N., Salman, S. G., Phadke, R., Shatby,
+A., Baki, Z., Hernandez, C., & Tripuraneni, A. (2026).
+*ZaneSalman/INSPIRE-Arthroplasty-Anesthesia-Reproducibility-v1.01: INSPIRE
+Arthroplasty Anesthesia Reproducibility Repository — Version 1.01* (Version
+v1.01) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22166599
 
 ## Honest caveats that MUST remain in the paper
 - LOS and ICU admission are administrative markers of resource use, NOT direct

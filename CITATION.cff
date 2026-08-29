@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "INSPIRE Arthroplasty Anesthesia Reproducibility Repository — Version 1.01"
+type: software
+version: "v1.01"
+date-released: 2026-08-29
+doi: 10.5281/zenodo.22166599
+repository-code: "https://github.com/ZaneSalman/INSPIRE-Arthroplasty-Anesthesia-Reproducibility-v1.01"
+url: "https://doi.org/10.5281/zenodo.22166599"
+authors:
+  - family-names: Salman
+    given-names: "Zane G."
+    affiliation: "The University of Texas at Austin"
+  - family-names: Zeitouny
+    given-names: Ryan
+    affiliation: "Texas A&M University"
+  - family-names: Panwalker
+    given-names: Neil
+    affiliation: "Baylor College of Medicine"
+  - family-names: Salman
+    given-names: "Samer G."
+    affiliation: "Baylor College of Medicine"
+  - family-names: Phadke
+    given-names: Rohan
+    affiliation: "Baylor College of Medicine"
+  - family-names: Shatby
+    given-names: Anthony
+    affiliation: "Texas A&M EnMed"
+  - family-names: Baki
+    given-names: Zain
+    affiliation: "The University of Texas at San Antonio"
+  - family-names: Hernandez
+    given-names: Camila
+    affiliation: "The University of Texas at Austin"
+  - family-names: Tripuraneni
+    given-names: Ajay
+    affiliation: "Baylor College of Medicine"
