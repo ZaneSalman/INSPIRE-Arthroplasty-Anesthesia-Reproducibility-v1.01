@@ -1,0 +1,8 @@
+# Patient-level intermediates and source data must never be committed
+*.pkl
+*.csv
+*.csv.gz
+inspire_data/
+inspire_work/
+__pycache__/
+.DS_Store
