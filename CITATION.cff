@@ -1,12 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
-title: "INSPIRE Arthroplasty Anesthesia Reproducibility Repository — Version 1.01"
+title: "INSPIRE Arthroplasty Anesthesia Reproducibility Repository — Version 1.02"
 type: software
-version: "v1.01"
-date-released: 2026-08-29
-doi: 10.5281/zenodo.22166599
+version: "v1.02"
+date-released: 2026-10-16
 repository-code: "https://github.com/ZaneSalman/INSPIRE-Arthroplasty-Anesthesia-Reproducibility-v1.01"
-url: "https://doi.org/10.5281/zenodo.22166599"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22166599
+    description: "Version 1.01 (superseded; uses the uncorrected ICU definition)"
 authors:
   - family-names: Salman
     given-names: "Zane G."
